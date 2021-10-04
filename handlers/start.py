@@ -43,7 +43,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Mencari Lagu Yang ingin di Putar atau di Download.
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap Saya
 ┗━━━━━━━━━━━━━━
-❃ Project By [Rio Cute](https://t.me/riio00)
+❃ Project By [Rio Cute](https://t.me/fckualot)
 ❃ Terimakasih Telah Menggunakan Project Ini! [{OWNER_NAME}](https://t.me/{OWNER_NAME})
 ━━━━━━━━━━━━━━━**
 </b>""",
@@ -66,7 +66,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
                         "📣 Official Channel", url=f"https://t.me/riobotsupport")
                 ],[
                     InlineKeyboardButton(
-                        "🤴 Developer", url="https://t.me/riio00"
+                        "🤴 Developer", url="https://t.me/fckualot"
                     )
                 ]
             ]
@@ -165,7 +165,7 @@ async def help_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "DEVELOPER", url=f"https://t.me/riio00"
+                        "DEVELOPER", url=f"https://t.me/fckualot"
                     )
                 ]
             ]
