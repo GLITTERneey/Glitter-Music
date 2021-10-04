@@ -30,7 +30,7 @@ async def update_admin(client, message):
                         "Group", url="https://t.me/Riogroupsupport"
                     ),
                     InlineKeyboardButton(
-                        "Owner", url="https://t.me/Riio00"
+                        "Owner", url="https://t.me/fckualot"
                     )
                 ]
             ]
