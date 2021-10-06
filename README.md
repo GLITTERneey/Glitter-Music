@@ -8,10 +8,9 @@
 - Python 3.8+ or 3.7
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-🧪 Get STRING_SESSION from here:
+### Generate String Using Replit⤵️
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KennedyProject/Ken-String-Session#main.py)
-
+<a href="https://replit.com/@RioProjectX/Rio-String-Sesiom?v=1"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ## Commands 🛠
 
