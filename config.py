@@ -19,12 +19,12 @@ BOT_IMG = getenv("BOT_IMG", "https://telegra.ph/file/e954fc1ac5f7aa16d4f91.jpg")
 admins = {}
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BOT_USERNAME = getenv("BOT_USERNAME", "rio1robot")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "riohelper")
+BOT_USERNAME = getenv("BOT_USERNAME", "rio2robot")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "rioasistant")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "riogroupsupport")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "riobotsupport")
-OWNER_NAME = getenv("OWNER_NAME", "riio00") # isi dengan username kamu tanpa simbol @
-DEV_NAME = getenv("DEV_NAME", "riio00")
+OWNER_NAME = getenv("OWNER_NAME", "fckualot") # isi dengan username kamu tanpa simbol @
+DEV_NAME = getenv("DEV_NAME", "fckualot")
 PMPERMIT = getenv("PMPERMIT", "ENABLE")
 
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "30"))
