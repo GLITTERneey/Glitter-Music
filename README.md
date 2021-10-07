@@ -1,4 +1,4 @@
-<h2 align="centre">☄️ Rio  Music ☄️</h2>
+## 🎶 Rio  Music 🎶
 
 <h3> Kalo Fork Star Ya Bang Hehehe </h3>
 
