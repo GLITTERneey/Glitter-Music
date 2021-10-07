@@ -13,7 +13,7 @@
 
 <a href="https://replit.com/@RioProjectX/Rio-String-Sesiom?v=1"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 # String Music Via Bot
-* [Ambil String Via Bot](t.me/ambilstringbot)
+* [Ambil String Via Bot](https://t.me/ambilstringbot)
 
 ## Commands 🛠
 
