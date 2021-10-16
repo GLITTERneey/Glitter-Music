@@ -180,7 +180,7 @@ async def ping_pong(client: Client, message: Message):
     m_reply = await message.reply_text("_Mengecek Ping_...")
     delta_ping = time() - start
     await m_reply.edit_text(
-        "**Ping Pong!!**\n"
+        "**Ping Pong!!!**\n"
         f"🔹 `{delta_ping * 1000:.3f} ms`"
     )
 
