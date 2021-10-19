@@ -7,72 +7,101 @@
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "fill with the pyrogram session string",
+            "description": "isi dengan string Pyrogram (P)",
+            "required": true
+        },
+        "ARQ_API_KEY": {
+            "description": "For lyric and quotly modules, get on @ARQRobot",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "your bot token from @BotFather",
+            "description": "Your bot token from @BotFather",
             "required": true
         },
         "BOT_NAME": {
-            "description": "your music bot name.",
-            "required": false,
+            "description": "Your musicplayer name.",
+            "required": true,
             "value": ""
         },
         "BOT_USERNAME": {
-            "description": "fill with your bot username without @",
+            "description": "Fill woth your blt username without @",
             "required": true,
-            "value": "rio1robot"
+            "value": "RioMusicbot"
         },
-        "ASSISTANT_NAME": {
-            "description": "fill with the assistant username without @",
+        "U_BRANCH": {
+            "description": "This branch the repo DON'T CHANGE!",
             "required": true,
-            "value": "riohelper"
+            "value": "Rio-Music"
         },
-        "BG_IMAGE": {
-            "description": "fill with your link costum background image",
-            "required": false,
-            "value": "https://telegra.ph/file/18d25616d9883400af112.png"
+        "HEROKU_API_KEY": {
+            "description": "Your heroku api key get from setting account.",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Your heroku app name, get it from top",
+            "required": true,
+            "value": ""
+        },
+        "UPSTREAM_REPO": {
+            "description": "If you forking, put your link on this value. if you not forking LEAVE THIS ONE!",
+            "required": true,
+            "value": "https://github.com/RioProjectX/Rio-Music"
         },
         "BOT_IMG": {
-            "description": "Gambar untuk Pesan /alive ya",
+            "description": "For alive pic.",
             "required": false,
-             "value": "masukin link telegraph"
+            "value": "https://telegra.ph/file/5f5f8e412644c47cc836a.jpg"
+        },
+        "ASSISTANT_NAME": {
+            "description": "Fill with your assistant username without @",
+            "required": true,
+            "value": "rioasistant"
+        },
+        "BG_IMAGE": {
+            "description": "For background image if you playing",
+            "required": false,
+            "value": "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png"
+        },
+        "ALIVE_EMOJI": {
+            "description": "for emoji in /alive command",
+            "required": true,
+            "value": "🍁"
         },
         "OWNER_NAME": {
-            "description": "fill with your username without @",
+            "description": "Fill with your username account without @",
             "required": false,
-            "value": "riio00"
+            "value": "fckualot"
         },
         "API_ID": {
-            "description": "your App ID from my.telegram.org/apps",
+            "description": "APP ID from my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "your Api hash from my.telegram.org/apps",
+            "description": "API HASH from my.telegram.org",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "list id untuk daftar anggota sudo (pisahkan dengan spasi).",
+            "description": "Fill with ID who you made a admin for bot (separate with space).",
             "required": true
         },
         "DURATION_LIMIT": {
-            "description": "max durasi untuk video yang diunduh (dalam menit).",
+            "description": "Duration limit for your musicplayer (in minutes).",
             "required": true,
             "value": "15"
         },
         "PMPERMIT": {
-            "description": "pm-permit for assistant.",
+            "description": "for PMPERMIT on assistant account.",
             "required": false,
             "value": "ENABLE"
         },
         "UPDATES_CHANNEL": {
-            "description": "isi dengan username channel kamu, jika tidak punya lewati saja",
+            "description": "Fill with your channel username without @, if you haven't one you can leave it default",
             "required": false,
-            "value": "riobotsupport"
+            "value": "rioprojects"
         },
         "GROUP_SUPPORT": {
-            "description": "isi dengan username grup kamu, jika tidak punya skip saja",
+            "description": "Fill with your group username without @, if your haven't one you can leave it default",
             "required": false,
             "value": "riogroupsupport"
         }
