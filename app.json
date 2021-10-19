@@ -1,6 +1,6 @@
 {
     "name": "Rio Music",
-    "logo": "https://telegra.ph/file/73cbefa8401982900fe81.jpg",
+    "logo": "https://telegra.ph/file/e954fc1ac5f7aa16d4f91.jpg",
     "description": "Rio Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/RioProjectX/Rio-Music",
@@ -51,7 +51,7 @@
         "BOT_IMG": {
             "description": "For alive pic.",
             "required": false,
-            "value": "https://telegra.ph/file/5f5f8e412644c47cc836a.jpg"
+            "value": "https://telegra.ph/file/e954fc1ac5f7aa16d4f91.jpg"
         },
         "ASSISTANT_NAME": {
             "description": "Fill with your assistant username without @",
