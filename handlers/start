@@ -43,7 +43,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Mencari Lagu Yang ingin di Putar atau di Download.
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap Saya
 ┗━━━━━━━━━━━━━━
-❃ Project By [Rio Cute](https://t.me/fckualot)
+❃📌 𝓣𝓱𝓪𝓷𝓴𝓼 𝓑𝔂𝓮 [Rio X Glitter](https://t.me/Biarenakliatnyaaa)X(https://t.me/fckualot) 
 ❃ Terimakasih Telah Menggunakan Project Ini! [{OWNER_NAME}](https://t.me/{OWNER_NAME})
 ━━━━━━━━━━━━━━━**
 </b>""",
@@ -51,22 +51,22 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "➕ 𝓣𝓪𝓶𝓫𝓪𝓱𝓴𝓪𝓷 𝓢𝓪𝔂𝓪 𝓚𝓮 𝓖𝓻𝓸𝓾𝓹𝓼 𝓐𝓷𝓭𝓪 ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                         "🛠 Repo", url="http://github.com/RioProjectX/Rio-Music"
+                         "🍷 𝓒𝓱𝓪𝓷𝓷𝓮𝓵 𝓑𝓾𝓬𝓲𝓷𝓷 🍷", url="http://t.me/whiteneey"
                     ),
                     InlineKeyboardButton(
-                        "🐥 Pemilik Bot", url=f"https://t.me/{OWNER_NAME}")
+                        "🐥 𝓟𝓮𝓶𝓲𝓵𝓲𝓴 𝓑𝓸𝓽𝓽 🐥", url=f"https://t.me/{OWNER_NAME}")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/riogroupsupport"
+                        "👥 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵𝓵 𝓖𝓻𝓸𝓾𝓹𝓼 👥", url=f"https://t.me/Virtualllnihsad"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/riobotsupport")
+                        "📣 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵𝓵 𝓒𝓱𝓪𝓷𝓷𝓮𝓵 📣", url=f"https://t.me/storeglitter")
                 ],[
                     InlineKeyboardButton(
-                        "🤴 Developer", url="https://t.me/fckualot"
+                        "✨ 𝓓𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 ✨", url="https://t.me/Biarenakliatnyaaa"
                     )
                 ]
             ]
@@ -86,10 +86,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "𝓖𝓻𝓸𝓾𝓹𝓼", url=f"https://t.me/Virtualllnihsad"
                     ),
                     InlineKeyboardButton(
-                        "Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "𝓒𝓱𝓪𝓷𝓷𝓮𝓵", url=f"https://t.me/storeglitter"
                     )
                 ]
             ]
@@ -104,7 +104,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="❔ Cara Menggunakan Saya ❔", url="https://t.me/riogroupsupport"
+                        text="❔ Cara Menggunakan Saya ❔", url="https://t.me/storeglitter"
                     )
                 ]
             ]
@@ -157,15 +157,15 @@ async def help_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "GROUP", url=f"https://t.me/riogroupsupport"
+                        "𝓖𝓻𝓸𝓾𝓹𝓼", url=f"https://t.me/Virtualllnihsad"
                     ),
                     InlineKeyboardButton(
-                        "CHANNEL", url=f"https://t.me/riobotsupport"
+                        "𝓒𝓱𝓪𝓷𝓷𝓮𝓵", url=f"https://t.me/storeglitter"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "DEVELOPER", url=f"https://t.me/fckualot"
+                        "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻", url=f"https://t.me/Biarenakliatnyaaa"
                     )
                 ]
             ]
