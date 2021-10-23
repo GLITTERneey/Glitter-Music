@@ -523,7 +523,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/storeglitter"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
@@ -568,7 +568,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/storeglitter"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
@@ -596,7 +596,7 @@ async def play(_, message: Message):
             while j < 5:
                 toxxt += f"{emojilist[j]} [{results[j]['title'][:24]}...](https://youtube.com{results[j]['url_suffix']})\n"
                 toxxt += f" ├ 💡 Durasi - {results[j]['duration']}\n"
-                toxxt += f" └ ⚡ __Powered by Rio Music__\n\n"
+                toxxt += f" └ ⚡ __Powered by Glitter Music__\n\n"
                 j += 1            
             keyboard = InlineKeyboardMarkup(
                 [
@@ -641,7 +641,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/storeglitter"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
@@ -737,7 +737,7 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/storeglitter"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
@@ -883,7 +883,7 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/storeglitter"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
