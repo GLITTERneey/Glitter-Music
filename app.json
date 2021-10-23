@@ -1,9 +1,9 @@
 {
-    "name": "Rio Music",
-    "logo": "https://telegra.ph/file/e954fc1ac5f7aa16d4f91.jpg",
-    "description": "Rio Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "Glitter Music",
+    "logo": "https://telegra.ph/file/e3687c2f0d0cdf01a83f5.jpg",
+    "description": "Glitter Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/RioProjectX/Rio-Music",
+    "repository": "https://github.com/GLITTERneey/Glitter-Music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -26,12 +26,12 @@
         "BOT_USERNAME": {
             "description": "Fill woth your blt username without @",
             "required": true,
-            "value": "RioMusicbot"
+            "value": "Musicbot"
         },
         "U_BRANCH": {
             "description": "This branch the repo DON'T CHANGE!",
             "required": true,
-            "value": "Rio-Music"
+            "value": "Glitter-Music"
         },
         "HEROKU_API_KEY": {
             "description": "Your heroku api key get from setting account.",
@@ -46,32 +46,32 @@
         "UPSTREAM_REPO": {
             "description": "If you forking, put your link on this value. if you not forking LEAVE THIS ONE!",
             "required": true,
-            "value": "https://github.com/RioProjectX/Rio-Music"
+            "value": "https://github.com/GLITTERneey/Glitter-Music"
         },
         "BOT_IMG": {
             "description": "For alive pic.",
             "required": false,
-            "value": "https://telegra.ph/file/e954fc1ac5f7aa16d4f91.jpg"
+            "value": "https://telegra.ph/file/e3687c2f0d0cdf01a83f5.jpg"
         },
         "ASSISTANT_NAME": {
             "description": "Fill with your assistant username without @",
             "required": true,
-            "value": "rioasistant"
+            "value": "Glitterasistant"
         },
         "BG_IMAGE": {
             "description": "For background image if you playing",
             "required": false,
-            "value": "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png"
+            "value": "https://telegra.ph/file/5060c9d08770c31e0acdc.png"
         },
         "ALIVE_EMOJI": {
             "description": "for emoji in /alive command",
             "required": true,
-            "value": "🍁"
+            "value": "😌"
         },
         "OWNER_NAME": {
             "description": "Fill with your username account without @",
             "required": false,
-            "value": "fckualot"
+            "value": "Biarenakliatnyaaa"
         },
         "API_ID": {
             "description": "APP ID from my.telegram.org",
@@ -88,7 +88,7 @@
         "DURATION_LIMIT": {
             "description": "Duration limit for your musicplayer (in minutes).",
             "required": true,
-            "value": "15"
+            "value": "30"
         },
         "PMPERMIT": {
             "description": "for PMPERMIT on assistant account.",
@@ -98,12 +98,12 @@
         "UPDATES_CHANNEL": {
             "description": "Fill with your channel username without @, if you haven't one you can leave it default",
             "required": false,
-            "value": "rioprojects"
+            "value": "storeglitter"
         },
         "GROUP_SUPPORT": {
             "description": "Fill with your group username without @, if your haven't one you can leave it default",
             "required": false,
-            "value": "riogroupsupport"
+            "value": "Virtualllnihsad"
         }
     },
     "buildpacks": [
