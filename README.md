@@ -62,4 +62,4 @@ The easy way to host this bot, deploy to Heroku
 - [Rio](https://github.com/RioProjectX) Developer
 - [Ken](https://github.com/KennedyProject) 
 ### Support & Updates ✨
-<a href="https://t.me/riogroupsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/riobotsupport"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Virtualllnihsad"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/storeglitter"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
