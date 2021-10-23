@@ -1,7 +1,10 @@
-## 🎶 Rio  Music 🎶
+## 🎶 𝓰𝓵𝓲𝓽𝓽𝓮𝓻 𝓜𝓾𝓼𝓲𝓬 🎶
 
 <h3> Kalo Fork Star Ya Bang Hehehe </h3>
 
+<p align="center">
+  <img src="https://telegra.ph/file/1dcbfa0a3152d1dc8b775.jpg">
+</p>
 
 <h3>Requirements 📝</h3>
 
@@ -53,7 +56,7 @@
 ## Heroku Deployment 
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RioProjectX/Rio-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GLITTERneey/Glitter-Music)
 
 ### Credits ✨
 - [Rio](https://github.com/RioProjectX) Developer
