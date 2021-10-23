@@ -43,7 +43,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Mencari Lagu Yang ingin di Putar atau di Download.
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap Saya
 ┗━━━━━━━━━━━━━━
-❃📌 𝓣𝓱𝓪𝓷𝓴𝓼 𝓑𝔂𝓮 [Rio X Glitter](https://t.me/Biarenakliatnyaaa)X(https://t.me/fckualot) 
+❃📌 Thanks by [Rio X Glitter](https://t.me/Biarenakliatnyaaa)X(https://t.me/fckualot) 
 ❃ Terimakasih Telah Menggunakan Project Ini! [{OWNER_NAME}](https://t.me/{OWNER_NAME})
 ━━━━━━━━━━━━━━━**
 </b>""",
