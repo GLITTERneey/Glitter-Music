@@ -4,7 +4,7 @@ from pytgcalls import PyTgCalls
 from config import SESSION_NAME, API_ID, API_HASH
 from . import queues
 
-client = Client(SESSION_NAME, API_ID, API_HASH)
+client = Client(config.SESSION_NAME, config.API_ID, config.API_HASH)
 pytgcalls = PyTgCalls(client)
 
 
